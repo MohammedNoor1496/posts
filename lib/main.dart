@@ -126,7 +126,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   margin: EdgeInsets.symmetric(horizontal: 10, vertical: 5),
                   padding: EdgeInsets.all(10.0),
                   decoration: BoxDecoration(
-                    color: Color(0xff97FFFF),
+                    color: Color.fromARGB(255, 217, 198, 224),
                     borderRadius: BorderRadius.circular(15.0),
                   ),
                   child: Row(
